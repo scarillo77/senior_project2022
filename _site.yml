@@ -1,0 +1,12 @@
+name: "senior_project2022"
+title: "Senior Project 2022"
+description: |
+  Senior Project 2022
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
