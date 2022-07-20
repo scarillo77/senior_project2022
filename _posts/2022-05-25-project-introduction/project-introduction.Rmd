@@ -1,7 +1,7 @@
 ---
-title: "  Senior Project"
+title: "The impact of COVID-19 on the United States Cinema box office"
 description: |
-  My Senior Project: The impact of COVID-19 on the United States Cinema box office
+  My Senior Project
 author:
   - name: Spencer Carillo
 date: 2022-07-20
@@ -60,3 +60,9 @@ The second visual also shows how the box office went dramatically down in 2020 b
 ## Question 2: How does the box office compare to COVID cases & deaths?
 
 ![](BvC.PNG)
+
+This question covers the most imortant topic in my research: seeing how COVID-19 has affected the box office. With the above visual, I compared the number of COVID cases daily to the daily box office from January 23, 2020 to JUne 30, 2022. With this data, I saw that COVID cases spiked when the box office was low, with the highest being in January 2022, which was when a deadly variant of the disease appeared. Fortunately, it seems that COVID cases are declining, with the box office increasing once again.
+
+![BvC2.PNG)
+
+When compared to the number of deaths affected by COVID to the box office, it shows an almost similar circumstance: the months with the lowest box office numbers have the highest recorded deaths. In conclusion, COVID definitely impacted the box office, with many recorded cases of individuals either receiving the disease and dying from it. 
