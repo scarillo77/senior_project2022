@@ -66,3 +66,33 @@ This question covers the most imortant topic in my research: seeing how COVID-19
 ![](BvC2.PNG)
 
 When compared to the number of deaths affected by COVID to the box office, it shows an almost similar circumstance: the months with the lowest box office numbers have the highest recorded deaths. In conclusion, COVID definitely impacted the box office, with many recorded cases of individuals either receiving the disease and dying from it. 
+
+## Question 3: What films were affected by COVID?
+
+When COVID-19 impacted cinemas, many studios chose different ways how to respond to the pandemic. Some films were canceled for a theatrical release and went straight to streaming services to be viewed in the comfort of home. Some were given both a theatrical release and on demand, with some films having their release delayed entirely.
+
+### Theatrical/VOD releases
+![](VOD2.PNG)
+![](VOD3.PNG)
+![](VOD4.PNG)
+
+In regards to films having their releases for both on demand and in theaters, we find 2021 with more than 50 films using this method, with a majority of the films released on HBO Max as part of a strategy implemented by Warner Bros. Pictures to release their films the same day in theaters and on HBO max, which resulted in their films not making too much money in the states
+
+### Date change releases
+
+### Cancelled film releases
+
+![](cancelled2.PNG)
+
+From this visual, we see that although Disney had canceled numerous films through its studios, a majority of the films that were canceled were released through VOD services not limited to one brand, though many were released through Netflix and Amazon Prime
+
+### Wide releases
+![](wide2.PNG)
+
+With this visual, we see that the top big 5 film studios made the most money during COVID: Disney, Warner Bros., Universal, Paramount, and Sony. As usual we see Disney has made the most money with its various studios and properties that it owns. However the numbers might differ across the individual years
+
+![](2020.PNG)
+![](2021.PNG)
+![](2022.PNG)
+
+With these visuals, we see that other companies have usurped Disney's reign as number one in the box office, something that possibly could have been avoided had Disney not delay many of its films to Hulu and Disney+
